@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Thailand </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmet-k&label=Profile%20views&color=fb00ff&style=flat" alt="kmet-k" /> </p> -->
-<p align="left"> <img src="https://www.codewars.com/users/kmet-k/badges/small" alt="codewar" /> </p>
+<p align="center"> <img src="https://www.codewars.com/users/kmet-k/badges/small" alt="codewar" /> </p>
 
 - 🌱 I’m currently learning **Vue.js**
 
