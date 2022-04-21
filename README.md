@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Krittamet</h1> 
-<h3 align="right"></h3>
-<h3 align="center">A passionate backend developer from Thailand   <img src="https://www.codewars.com/users/kmet-k/badges/micro" alt="codewar" /></h3>
+<h1 align="center">Hi 👋, I'm Krittamet  <img src="https://www.codewars.com/users/kmet-k/badges/micro" alt="codewar" /></h1> 
+
+<h3 align="center">A passionate backend developer from Thailand </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmet-k&label=Profile%20views&color=fb00ff&style=flat" alt="kmet-k" /> </p>
 
@@ -17,5 +17,5 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
 
-<h3 align="left"></h3>
+
 
